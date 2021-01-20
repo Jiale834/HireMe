@@ -1,0 +1,45 @@
+body {
+    background-color: slategrey;
+}
+
+img {
+    width: 300px;
+    height: 200px;
+    float: right;
+    margin: 50px;
+}
+
+.intro {
+    color: lightblue;
+}
+
+h1 {
+    color: navy;
+}
+
+.activities {
+    font-family: 'Shadows Into Light', cursive;
+    color: yellow;
+}
+
+.stuff {
+    font-family: 'Texturina', serif;
+    color: hotpink;
+}
+
+.entertainment {
+    font-family: 'Indie Flower', cursive;
+    color: orange;
+}
+
+.websites {
+    color: lightgreen;
+}
+
+a {
+    color: lightgreen;
+}
+
+.why {
+    color: green;
+}
